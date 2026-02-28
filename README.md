@@ -1,4 +1,4 @@
-# Caudldron: A digital pantry system
+# Cauldron: A digital pantry system
 
 **Cauldron** is a mobile application prototype that tackles the everyday problem of household food waste. By bridging the gap between raw "builder" instincts and structured Information Systems design, this project provides a professional, user-centric solution for kitchen management. 
 
